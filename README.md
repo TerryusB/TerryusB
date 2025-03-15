@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I am a university student focused on people analytics. I seek to create projects that are useful in areas such as Human Resources or other related areas.
+I’m learning R and Python.
 
 <!--
 **TerryusB/TerryusB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
