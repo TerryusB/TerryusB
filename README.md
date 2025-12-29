@@ -30,36 +30,15 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <br>
 
-<h3>📊 GitHub Analytics</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=TerryusB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Terryus Stats" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerryusB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3>📝 Publicaciones Destacadas</h3>
-<p align="left">
-  <a href="https://medium.com/@terryusuchofen" target="_blank">
-    <img src="https://github-readme-medium-recent-story.vercel.app/api?username=@terryusuchofen&limit=1&theme=tokyonight" alt="Medium Story" />
-  </a>
-</p>
+>
