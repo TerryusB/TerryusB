@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Terryus Uchofen Ventura</h1>
-  <h3>Business Analytics | HR Tech | Executive Research</h3>
-  
+  <h3>People Analytics | Data Science | Organizational Psychology</h3>
+   
   <p>
-    <i>Ayudo a las empresas a tomar decisiones más inteligentes a través de los datos.</i>
+    <i>Bridging the gap between Human Capital and Data Science.</i>
   </p>
 
   <a href="https://www.linkedin.com/in/terryusuchofen/" target="_blank">
@@ -19,26 +19,26 @@
 
 <br>
 
-<h3>👨‍💻 Sobre mí</h3>
+<h3>👨‍💻 About Me</h3>
 <p>
-  Más allá del código, aporto una fuerte perspectiva de negocio. Con formación en <b>Psicología Organizacional</b> y especialización en <b>Business Analytics (Wharton Online)</b>, entiendo que los datos solo son valiosos si resuelven un problema real. Actualmente trabajo como Research Associate & Data Analyst en proyectos internacionales.
+  I am a <b>Research Associate & Data Analyst</b> leveraging a background in <b>Organizational Psychology</b> to solve complex business problems. Unlike traditional developers, I bring deep domain knowledge in Human Resources—ensuring that data models solve <i>real</i> organizational needs. <br><br>
+  With a specialization in <b>Business Analytics (Wharton Online)</b>, my focus is on building tools for <b>People Analytics</b>, <b>Pay Equity Auditing</b>, and <b>Process Automation</b>.
 </p>
 
 <hr>
 
-<h3>🛠 Stack Tecnológico & Herramientas</h3>
+<h3>🛠 Tech Stack & Tools</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <br>
-
->
