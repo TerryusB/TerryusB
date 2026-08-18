@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220"
+     role="img" aria-label="Animated graph: a cluster of data nodes connected through a bridge to a cluster of people nodes">
+  <title>Human capital, connected through data</title>
+  <defs>
+    <linearGradient id="bridge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <filter id="glow" x="-120%" y="-120%" width="340%" height="340%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <line x1="60" y1="120" x2="118" y2="64" stroke="#6366f1" stroke-width="1" opacity=".22"/>
+  <line x1="60" y1="120" x2="118" y2="64" stroke="#6366f1" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="3.40s" begin="0.00s" repeatCount="indefinite"/>
+  </line>
+  <line x1="60" y1="120" x2="128" y2="176" stroke="#6366f1" stroke-width="1" opacity=".22"/>
+  <line x1="60" y1="120" x2="128" y2="176" stroke="#6366f1" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="3.95s" begin="0.37s" repeatCount="indefinite"/>
+  </line>
+  <line x1="60" y1="120" x2="196" y2="112" stroke="#6366f1" stroke-width="1" opacity=".22"/>
+  <line x1="60" y1="120" x2="196" y2="112" stroke="#6366f1" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="4.50s" begin="0.74s" repeatCount="indefinite"/>
+  </line>
+  <line x1="118" y1="64" x2="196" y2="112" stroke="#6366f1" stroke-width="1" opacity=".22"/>
+  <line x1="118" y1="64" x2="196" y2="112" stroke="#6366f1" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="5.05s" begin="1.11s" repeatCount="indefinite"/>
+  </line>
+  <line x1="128" y1="176" x2="196" y2="112" stroke="#6366f1" stroke-width="1" opacity=".22"/>
+  <line x1="128" y1="176" x2="196" y2="112" stroke="#6366f1" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="5.60s" begin="1.48s" repeatCount="indefinite"/>
+  </line>
+  <line x1="196" y1="112" x2="246" y2="52" stroke="#6366f1" stroke-width="1" opacity=".22"/>
+  <line x1="196" y1="112" x2="246" y2="52" stroke="#6366f1" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="6.15s" begin="1.85s" repeatCount="indefinite"/>
+  </line>
+  <line x1="196" y1="112" x2="252" y2="178" stroke="#6366f1" stroke-width="1" opacity=".22"/>
+  <line x1="196" y1="112" x2="252" y2="178" stroke="#6366f1" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="6.70s" begin="2.22s" repeatCount="indefinite"/>
+  </line>
+  <line x1="118" y1="64" x2="246" y2="52" stroke="#6366f1" stroke-width="1" opacity=".22"/>
+  <line x1="118" y1="64" x2="246" y2="52" stroke="#6366f1" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="3.40s" begin="2.59s" repeatCount="indefinite"/>
+  </line>
+  <line x1="128" y1="176" x2="252" y2="178" stroke="#6366f1" stroke-width="1" opacity=".22"/>
+  <line x1="128" y1="176" x2="252" y2="178" stroke="#6366f1" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="3.95s" begin="2.96s" repeatCount="indefinite"/>
+  </line>
+  <line x1="196" y1="112" x2="330" y2="110" stroke="url(#bridge)" stroke-width="1" opacity=".22"/>
+  <line x1="196" y1="112" x2="330" y2="110" stroke="url(#bridge)" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="4.50s" begin="3.33s" repeatCount="indefinite"/>
+  </line>
+  <line x1="246" y1="52" x2="330" y2="110" stroke="url(#bridge)" stroke-width="1" opacity=".22"/>
+  <line x1="246" y1="52" x2="330" y2="110" stroke="url(#bridge)" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="5.05s" begin="3.70s" repeatCount="indefinite"/>
+  </line>
+  <line x1="252" y1="178" x2="330" y2="110" stroke="url(#bridge)" stroke-width="1" opacity=".22"/>
+  <line x1="252" y1="178" x2="330" y2="110" stroke="url(#bridge)" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="5.60s" begin="0.07s" repeatCount="indefinite"/>
+  </line>
+  <line x1="330" y1="110" x2="432" y2="72" stroke="url(#bridge)" stroke-width="1" opacity=".22"/>
+  <line x1="330" y1="110" x2="432" y2="72" stroke="url(#bridge)" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="6.15s" begin="0.44s" repeatCount="indefinite"/>
+  </line>
+  <line x1="330" y1="110" x2="440" y2="152" stroke="url(#bridge)" stroke-width="1" opacity=".22"/>
+  <line x1="330" y1="110" x2="440" y2="152" stroke="url(#bridge)" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="6.70s" begin="0.81s" repeatCount="indefinite"/>
+  </line>
+  <line x1="432" y1="72" x2="540" y2="110" stroke="url(#bridge)" stroke-width="1" opacity=".22"/>
+  <line x1="432" y1="72" x2="540" y2="110" stroke="url(#bridge)" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="3.40s" begin="1.18s" repeatCount="indefinite"/>
+  </line>
+  <line x1="440" y1="152" x2="540" y2="110" stroke="url(#bridge)" stroke-width="1" opacity=".22"/>
+  <line x1="440" y1="152" x2="540" y2="110" stroke="url(#bridge)" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="3.95s" begin="1.55s" repeatCount="indefinite"/>
+  </line>
+  <line x1="432" y1="72" x2="440" y2="152" stroke="url(#bridge)" stroke-width="1" opacity=".22"/>
+  <line x1="432" y1="72" x2="440" y2="152" stroke="url(#bridge)" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="4.50s" begin="1.92s" repeatCount="indefinite"/>
+  </line>
+  <line x1="540" y1="110" x2="606" y2="54" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="540" y1="110" x2="606" y2="54" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="5.05s" begin="2.29s" repeatCount="indefinite"/>
+  </line>
+  <line x1="540" y1="110" x2="614" y2="168" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="540" y1="110" x2="614" y2="168" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="5.60s" begin="2.66s" repeatCount="indefinite"/>
+  </line>
+  <line x1="540" y1="110" x2="694" y2="100" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="540" y1="110" x2="694" y2="100" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="6.15s" begin="3.03s" repeatCount="indefinite"/>
+  </line>
+  <line x1="606" y1="54" x2="694" y2="100" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="606" y1="54" x2="694" y2="100" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="6.70s" begin="3.40s" repeatCount="indefinite"/>
+  </line>
+  <line x1="614" y1="168" x2="694" y2="100" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="614" y1="168" x2="694" y2="100" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="3.40s" begin="3.77s" repeatCount="indefinite"/>
+  </line>
+  <line x1="694" y1="100" x2="780" y2="58" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="694" y1="100" x2="780" y2="58" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="3.95s" begin="0.14s" repeatCount="indefinite"/>
+  </line>
+  <line x1="694" y1="100" x2="742" y2="164" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="694" y1="100" x2="742" y2="164" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="4.50s" begin="0.51s" repeatCount="indefinite"/>
+  </line>
+  <line x1="742" y1="164" x2="836" y2="120" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="742" y1="164" x2="836" y2="120" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="5.05s" begin="0.88s" repeatCount="indefinite"/>
+  </line>
+  <line x1="780" y1="58" x2="836" y2="120" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="780" y1="58" x2="836" y2="120" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="5.60s" begin="1.25s" repeatCount="indefinite"/>
+  </line>
+  <line x1="694" y1="100" x2="836" y2="120" stroke="#10b981" stroke-width="1" opacity=".22"/>
+  <line x1="694" y1="100" x2="836" y2="120" stroke="#10b981" stroke-width="1.6" stroke-linecap="round" opacity=".85" pathLength="1" stroke-dasharray="0.14 0.86">
+    <animate attributeName="stroke-dashoffset" values="1;0" dur="6.15s" begin="1.62s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="60" cy="120" r="5" fill="#6366f1" opacity=".18">
+    <animate attributeName="r" values="5;10.5;5" dur="2.80s" begin="0.00s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="2.80s" begin="0.00s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="120" r="5" fill="#6366f1" filter="url(#glow)"/>
+  <circle cx="118" cy="64" r="4" fill="#6366f1" opacity=".18">
+    <animate attributeName="r" values="4;8.4;4" dur="3.40s" begin="0.31s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="3.40s" begin="0.31s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="118" cy="64" r="4" fill="#6366f1" filter="url(#glow)"/>
+  <circle cx="128" cy="176" r="4" fill="#6366f1" opacity=".18">
+    <animate attributeName="r" values="4;8.4;4" dur="4.00s" begin="0.62s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="4.00s" begin="0.62s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="128" cy="176" r="4" fill="#6366f1" filter="url(#glow)"/>
+  <circle cx="196" cy="112" r="6.5" fill="#6366f1" opacity=".18">
+    <animate attributeName="r" values="6.5;13.7;6.5" dur="4.60s" begin="0.93s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="4.60s" begin="0.93s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="196" cy="112" r="6.5" fill="#6366f1" filter="url(#glow)"/>
+  <circle cx="246" cy="52" r="3.5" fill="#6366f1" opacity=".18">
+    <animate attributeName="r" values="3.5;7.4;3.5" dur="5.20s" begin="1.24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="5.20s" begin="1.24s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="246" cy="52" r="3.5" fill="#6366f1" filter="url(#glow)"/>
+  <circle cx="252" cy="178" r="4" fill="#6366f1" opacity=".18">
+    <animate attributeName="r" values="4;8.4;4" dur="2.80s" begin="1.55s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="2.80s" begin="1.55s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="252" cy="178" r="4" fill="#6366f1" filter="url(#glow)"/>
+  <circle cx="330" cy="110" r="8" fill="url(#bridge)" opacity=".18">
+    <animate attributeName="r" values="8;16.8;8" dur="3.40s" begin="1.86s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="3.40s" begin="1.86s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="330" cy="110" r="8" fill="url(#bridge)" filter="url(#glow)"/>
+  <circle cx="432" cy="72" r="5" fill="url(#bridge)" opacity=".18">
+    <animate attributeName="r" values="5;10.5;5" dur="4.00s" begin="2.17s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="4.00s" begin="2.17s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="432" cy="72" r="5" fill="url(#bridge)" filter="url(#glow)"/>
+  <circle cx="440" cy="152" r="5" fill="url(#bridge)" opacity=".18">
+    <animate attributeName="r" values="5;10.5;5" dur="4.60s" begin="2.48s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="4.60s" begin="2.48s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="440" cy="152" r="5" fill="url(#bridge)" filter="url(#glow)"/>
+  <circle cx="540" cy="110" r="6.5" fill="#10b981" opacity=".18">
+    <animate attributeName="r" values="6.5;13.7;6.5" dur="5.20s" begin="2.79s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="5.20s" begin="2.79s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="540" cy="110" r="6.5" fill="#10b981" filter="url(#glow)"/>
+  <circle cx="606" cy="54" r="4" fill="#10b981" opacity=".18">
+    <animate attributeName="r" values="4;8.4;4" dur="2.80s" begin="0.10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="2.80s" begin="0.10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="606" cy="54" r="4" fill="#10b981" filter="url(#glow)"/>
+  <circle cx="614" cy="168" r="4" fill="#10b981" opacity=".18">
+    <animate attributeName="r" values="4;8.4;4" dur="3.40s" begin="0.41s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="3.40s" begin="0.41s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="614" cy="168" r="4" fill="#10b981" filter="url(#glow)"/>
+  <circle cx="694" cy="100" r="5" fill="#10b981" opacity=".18">
+    <animate attributeName="r" values="5;10.5;5" dur="4.00s" begin="0.72s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="4.00s" begin="0.72s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="694" cy="100" r="5" fill="#10b981" filter="url(#glow)"/>
+  <circle cx="742" cy="164" r="3.5" fill="#10b981" opacity=".18">
+    <animate attributeName="r" values="3.5;7.4;3.5" dur="4.60s" begin="1.03s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="4.60s" begin="1.03s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="742" cy="164" r="3.5" fill="#10b981" filter="url(#glow)"/>
+  <circle cx="780" cy="58" r="4" fill="#10b981" opacity=".18">
+    <animate attributeName="r" values="4;8.4;4" dur="5.20s" begin="1.34s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="5.20s" begin="1.34s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="58" r="4" fill="#10b981" filter="url(#glow)"/>
+  <circle cx="836" cy="120" r="4.5" fill="#10b981" opacity=".18">
+    <animate attributeName="r" values="4.5;9.5;4.5" dur="2.80s" begin="1.65s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".22;0;.22" dur="2.80s" begin="1.65s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="836" cy="120" r="4.5" fill="#10b981" filter="url(#glow)"/>
+  <circle r="4" fill="#6366f1" filter="url(#glow)">
+    <animateMotion dur="7.8s" begin="0s" repeatCount="indefinite" path="M60 120 L196 112 L330 110 L432 72 L540 110 L694 100 L836 120"/>
+    <animate attributeName="fill" values="#6366f1;#8b5cf6;#10b981" dur="7.8s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.9;1" dur="7.8s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4" fill="#6366f1" filter="url(#glow)">
+    <animateMotion dur="7.8s" begin="2.6s" repeatCount="indefinite" path="M60 120 L196 112 L330 110 L432 72 L540 110 L694 100 L836 120"/>
+    <animate attributeName="fill" values="#6366f1;#8b5cf6;#10b981" dur="7.8s" begin="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.9;1" dur="7.8s" begin="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4" fill="#6366f1" filter="url(#glow)">
+    <animateMotion dur="7.8s" begin="5.2s" repeatCount="indefinite" path="M60 120 L196 112 L330 110 L432 72 L540 110 L694 100 L836 120"/>
+    <animate attributeName="fill" values="#6366f1;#8b5cf6;#10b981" dur="7.8s" begin="5.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.9;1" dur="7.8s" begin="5.2s" repeatCount="indefinite"/>
+  </circle>
+  <g font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif"
+     font-size="9" letter-spacing="2.6" fill="#8b8b95" opacity=".9">
+    <text x="60" y="209">D A T A</text>
+    <text x="292" y="209">B R I D G E</text>
+    <text x="540" y="209">P E O P L E</text>
+  </g>
+</svg>

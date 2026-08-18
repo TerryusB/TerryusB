@@ -3,6 +3,8 @@
 <h1>Terryus Uchofen Ventura</h1>
 <h3>Executive Search · People Analytics · Applied AI</h3>
 
+<img src="assets/network.svg" width="100%" alt="Animated graph: data nodes bridged to people nodes"/>
+
 <p><i>I came to data from organizational psychology. That's the whole point.</i></p>
 
 <a href="https://terryusuchofen.com" target="_blank">
@@ -97,6 +99,8 @@ talent AI, and what actually transfers between the two.
 <br>
 
 <div align="center">
+  <sub>The graph above is a hand-written animated SVG — no third-party widgets.</sub>
+  <br><br>
   <sub>Open to conversations about People Analytics, Executive Search and applied AI —
   <a href="mailto:terryusfreelancer@gmail.com">terryusfreelancer@gmail.com</a></sub>
 </div>
