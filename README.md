@@ -84,7 +84,6 @@ and an agent that drafts outreach but never sends it. Live front end at
 
 - **Bachelor in Psychology** — Universidad Católica Santo Toribio de Mogrovejo (USAT)
 - **Business Analytics** — Wharton Online, University of Pennsylvania
-- **Statistics and Data Science** — MITx
 - **AI Foundations** — Saïd Business School, University of Oxford
 - **HR 3.0 Specialization** — CENTRUM PUCP
 
